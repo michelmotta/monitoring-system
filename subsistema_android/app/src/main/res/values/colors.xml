@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#673AB7</color>
+    <color name="colorPrimaryDark">#4B0082</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="errorMessageBackground">#ff5722</color>
+    <color name="successMessageBackground">#009917</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="graphColor1">#3f0b51</color>
+    <color name="graphColor2">#600f0f</color>
+    <color name="graphColor3">#220a40</color>
+    <color name="graphColor4">#f4edce</color>
+    <color name="graphColor5">#4f0808</color>
+    <color name="graphColor6">#000000</color>
+
+</resources>

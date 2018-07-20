@@ -1,0 +1,79 @@
+<resources>
+
+    <!-- System App -->
+    <string name="app_name">MonitoringSystemMVP</string>
+    <string name="appPageTitleConfig">System Settings</string>
+    <string name="appPageTitleGraph">Temperature Graph</string>
+    <string name="appPageTitleHistoric">Temperature Historic</string>
+    <string name="appPageTitleMain">Monitoring System MVP</string>
+    <string name="appPageTitleUser">User Account Info</string>
+    <string name="appLoading">Loading...</string>
+
+    <!-- Menu App -->
+    <string name="menuHistoric">Historic</string>
+    <string name="menuGraph">Graph</string>
+    <string name="menuConfig">Config</string>
+    <string name="menuUser">User</string>
+    <string name="menuLogout">Logout</string>
+
+    <!-- Activity Config -->
+    <string name="configTitle">Edit System Settings</string>
+    <string name="configTextViewMaxTempLimit">Maximum Temperature Limit</string>
+    <string name="configTextViewMinTempLimit">Minimum Temperature Limit</string>
+    <string name="configTextViewMaxHumLimit">Maximum Humidity Limit</string>
+    <string name="configTextViewMinHumLimit">Minimum Humidity Limit</string>
+    <string name="configTextViewReadingRange">Reading Range</string>
+    <string name="configButtonSaveSettings">Reading Range</string>
+
+    <!-- Activity Graph -->
+    <string name="graphTitle">Temperature Graph</string>
+
+    <!-- Activity Historic -->
+    <string name="historicTitle">Temperature Historic </string>
+    <string name="historicTemperatureId">Temperature ID:</string>
+    <string name="historicTemperatureServerId">Server ID:</string>
+    <string name="historicTemperatureServerName">Server Name:</string>
+    <string name="historicTemperatureTemp">Temperature:</string>
+    <string name="historicTemperatureHum">Humidity:</string>
+    <string name="historicTemperatureTime">Time:</string>
+
+    <!-- Activity Login -->
+    <string name="loginTitle">MonitoringSystemMVP</string>
+    <string name="loginEditTextEmail">Type your email</string>
+    <string name="loginEditTextPassword">Type your password</string>
+    <string name="loginButtonLogin">Login</string>
+    <string name="loginButtonRegister">Don\'t you have account yet?</string>
+    <string name="loginTextEmptyField">Field can\'t be empty</string>
+
+    <!-- Activity Main -->
+    <string name="mainTempTitle">Temperature</string>
+    <string name="mainHumTitle">Humidity</string>
+
+    <!-- Activity Register -->
+    <string name="registerTitle">Account Register</string>
+    <string name="registerEditTextUsername">Your Username</string>
+    <string name="registerEditTextEmail">Your Email</string>
+    <string name="registerEditTextPassword">Your Password</string>
+    <string name="registerEditTextRetypePassword">Retype Your Password</string>
+    <string name="registerEditTextPhone">Your Phone</string>
+    <string name="registerButtonRegister">Create Account</string>
+    <string name="registerButtonBackLogin">Back To Login</string>
+    <string name="registerDoNotMatch">Passwords do not match</string>
+    <string name="registerRequiredField">All fields are required</string>
+
+
+
+    <!-- Activity User -->
+    <string name="userTitle">Edit User Account Info</string>
+    <string name="userEditTextId">Your Id</string>
+    <string name="userEditTextUsername">Your Username</string>
+    <string name="userEditTextEmail">Your Email</string>
+    <string name="userEditTextPassword">Your Password</string>
+    <string name="userEditTextRetypePassword">Retype Your Password</string>
+    <string name="userEditTextPhone">Your Phone</string>
+    <string name="userButtonSave">Edit User Account</string>
+
+    <!-- Layout List Historic Temperature -->
+    <!-- Layout Toast Error -->
+    <!-- Layout Toast Sucess -->
+</resources>

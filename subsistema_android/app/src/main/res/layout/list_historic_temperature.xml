@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        app:cardBackgroundColor="@color/colorPrimaryDark">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/textViewTempId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Temperature Id"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+            <TextView
+                android:id="@+id/textViewServerId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Server Id"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/textViewServerName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Description"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/textViewTemp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tempetature"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/textViewHum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Humidity"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/textViewTime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Time"
+                android:textSize="18dp" />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

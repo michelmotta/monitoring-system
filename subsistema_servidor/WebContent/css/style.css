@@ -1,0 +1,40 @@
+body{
+	background: #cdcdcd;
+}
+.box{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.header-box{
+	overflow: hidden;
+	background: #353E4F;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+.header-box img{
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.body-box{
+	overflow: hidden;
+	margin-top: -15px;
+	background: #DADADA;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+.body-box h1{
+	margin-top: 90px;
+	margin-bottom: 80px;
+	font-size: 32px;
+	text-align: center;
+}
+.square{
+	width: 30px;
+	height: 30px;
+	background: #353E4F;
+	margin: 0 auto;
+	transform: rotate(45deg);
+	margin-top: -15px;
+}
